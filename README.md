@@ -15,18 +15,6 @@ Python is a great object-oriented, interpreted, and interactive programming lang
 - [CodeAcademy](https://www.codecademy.com/learn/learn-python) is good for introduction to programming.
 
 ## Web
-<<<<<<< HEAD
-### Front end Development 
-####  HTML AND CSS
-
-1. [FCC HTML5 and CSS](https://www.freecodecamp.org/map-aside#nested-collapseHTML5andCSS)
-
-2. [CodeAcademy HTML](https://www.codecademy.com/learn/learn-html)
-
-3. [CodeAcademy CSS](https://www.codecademy.com/learn/learn-css)
-
-4. [Udacity Intro Course To HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304/) Video Lectures
-=======
 
 ### HTML AND CSS
 HTML defines the structure of a web page. It forms the skeleton of the web page. Right from head to ~~toe~~ footer. CSS is used to add styling to the web page.
@@ -61,58 +49,19 @@ Bootstrap is a free and open-source front-end web framework for designing websit
 
 ### jQuery
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
->>>>>>> upstream/master
 
 1. Start with a basic overview into jQuery: [W3Schools](https://www.w3schools.com/jquery/default.asp)
 2. [jQuery in Action](https://www.manning.com/books/jquery-in-action-second-edition)
 3. [Official Documentation](http://api.jquery.com/)
 
-<<<<<<< HEAD
-1. [Bootstrap W3school](https://www.w3schools.com/bootstrap/)
-
-2. [Bootstrap tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V) Video Lectures
-
-3. [FCC Bootstrap](https://www.freecodecamp.org/map-aside#nested-collapseResponsiveDesignwithBootstrap)
-
-#### jQuery
-1. Start with a basic overview into jQuery: [W3Schools](https://www.w3schools.com/jquery/default.asp)
-2. [jQuery in Action](https://www.manning.com/books/jquery-in-action-second-edition)
-3. [Official Documentation](http://api.jquery.com/)
-
-#### AJAX
-AJAX stands for Ansynchronous Javascript and XML
-1. Basic understanding using [W3Schools](https://www.w3schools.com/js/js_ajax_intro.asp)
-2. [NewBoston Tutorials](https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ)
-
-#### Designing
-
-1. [thestocks.im](http://thestocks.im/)
-
-2. [sansfrancis.co](http://www.sansfrancis.co/)
-
-3. [designresources.party](http://designresources.party/)
-
-4. [makerbook.net](http://makerbook.net/)
-
-5. [allthefreestock](http://allthefreestock.com/)
-=======
 
 ### AJAX
 AJAX stands for Ansynchronous Javascript and XML. It is a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications. With Ajax, Web applications can send data to and retrieve from a server asynchronously (in the background) without interfering with the display and behavior of the existing page.
 
 1. Basic understanding using [W3Schools](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [NewBoston Tutorials](https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ)
->>>>>>> upstream/master
 
 
-<<<<<<< HEAD
-1. [FCC Beginner Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseBasicFrontEndDevelopmentProjects)
-
-2. [FCC Intermediate Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseIntermediateFrontEndDevelopmentProjects)
-
-3. [FCC Advance Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseAdvancedFrontEndDevelopmentProjects)
-
-=======
 ### Designing
 1. [thestocks.im](http://thestocks.im/)
 2. [sansfrancis.co](http://www.sansfrancis.co/)
@@ -126,7 +75,6 @@ AJAX stands for Ansynchronous Javascript and XML. It is a set of Web development
 2. [FCC Intermediate Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseIntermediateFrontEndDevelopmentProjects)
 3. [FCC Advance Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseAdvancedFrontEndDevelopmentProjects)
 
->>>>>>> upstream/master
 
 ### Django
 Django is server-side Python framework that allows developers to create web apps with little hassle. It is a high level framework and is hence even suitable for beginners.
@@ -232,11 +180,6 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 ### CheatSheet
 - [Git Ready Reckoner](https://drive.google.com/open?id=0B0TMPJ2DXuRLcWJLc3FMZDF2NU0)
 
-<<<<<<< HEAD
-## Public APIs
-[A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  
-While this may look like alot, go through the list to see which suits your application.
-=======
 
 ## Testing & Optimization
 
@@ -276,4 +219,3 @@ You may choose to either start from the basics of NLP and gradually move to deep
 
 
 Topics to come: Machine Learning, Deep Learning, Computer Vision, Cybersecurity and maybe HCI  
->>>>>>> upstream/master
